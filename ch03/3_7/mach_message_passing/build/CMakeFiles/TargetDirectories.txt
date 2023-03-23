@@ -1,0 +1,3 @@
+/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/mach_message_passing/build/CMakeFiles/mach_message_passing.dir
+/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/mach_message_passing/build/CMakeFiles/edit_cache.dir
+/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/mach_message_passing/build/CMakeFiles/rebuild_cache.dir
