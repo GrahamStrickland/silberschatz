@@ -4,4 +4,4 @@ set(CMAKE_C_STANDARD 11)
 
 set(SOURCE_FILES memory.c)
 
-add_executable(${SOURCE_FILES})
+add_executable(memory ${SOURCE_FILES})
