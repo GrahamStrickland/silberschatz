@@ -10,7 +10,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.26.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.26.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.26.1/CMakeSystem.cmake"
-  "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/mach_message_passing/src/CMakeLists.txt"
+  "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/unix_ordinary_pipe/src/CMakeLists.txt"
   "/usr/local/Cellar/cmake/3.26.1/share/cmake/Modules/CMakeCCompiler.cmake.in"
   "/usr/local/Cellar/cmake/3.26.1/share/cmake/Modules/CMakeCCompilerABI.c"
   "/usr/local/Cellar/cmake/3.26.1/share/cmake/Modules/CMakeCInformation.cmake"
@@ -39,6 +39,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/local/Cellar/cmake/3.26.1/share/cmake/Modules/CMakeTestCCompiler.cmake"
   "/usr/local/Cellar/cmake/3.26.1/share/cmake/Modules/CMakeTestCXXCompiler.cmake"
   "/usr/local/Cellar/cmake/3.26.1/share/cmake/Modules/CMakeTestCompilerCommon.cmake"
+  "/usr/local/Cellar/cmake/3.26.1/share/cmake/Modules/CMakeUnixFindMake.cmake"
   "/usr/local/Cellar/cmake/3.26.1/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake"
   "/usr/local/Cellar/cmake/3.26.1/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
   "/usr/local/Cellar/cmake/3.26.1/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
@@ -125,5 +126,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/mach_message_passing.dir/DependInfo.cmake"
+  "CMakeFiles/unix_ordinary_pipe.dir/DependInfo.cmake"
   )
