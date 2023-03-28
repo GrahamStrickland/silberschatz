@@ -39,8 +39,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_3/unix_fork/build/CMakeFiles/CMakeScratch/TryCompile-rPtqso"
-      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_3/unix_fork/build/CMakeFiles/CMakeScratch/TryCompile-rPtqso"
+      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_3/unix_fork/src/CMakeFiles/CMakeScratch/TryCompile-rPtqso"
+      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_3/unix_fork/src/CMakeFiles/CMakeScratch/TryCompile-rPtqso"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"

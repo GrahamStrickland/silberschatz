@@ -61,8 +61,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/mach_message_passing/build/CMakeFiles/CMakeScratch/TryCompile-3fkEHo"
-      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/mach_message_passing/build/CMakeFiles/CMakeScratch/TryCompile-3fkEHo"
+      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/mach_message_passing/src/CMakeFiles/CMakeScratch/TryCompile-3fkEHo"
+      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/mach_message_passing/src/CMakeFiles/CMakeScratch/TryCompile-3fkEHo"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -212,8 +212,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/mach_message_passing/build/CMakeFiles/CMakeScratch/TryCompile-zADujH"
-      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/mach_message_passing/build/CMakeFiles/CMakeScratch/TryCompile-zADujH"
+      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/mach_message_passing/src/CMakeFiles/CMakeScratch/TryCompile-zADujH"
+      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/mach_message_passing/src/CMakeFiles/CMakeScratch/TryCompile-zADujH"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"

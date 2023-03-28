@@ -61,8 +61,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_5/build/CMakeFiles/CMakeScratch/TryCompile-wPInQR"
-      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_5/build/CMakeFiles/CMakeScratch/TryCompile-wPInQR"
+      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_5/src/CMakeFiles/CMakeScratch/TryCompile-wPInQR"
+      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_5/src/CMakeFiles/CMakeScratch/TryCompile-wPInQR"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -212,8 +212,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_5/build/CMakeFiles/CMakeScratch/TryCompile-Z96dvT"
-      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_5/build/CMakeFiles/CMakeScratch/TryCompile-Z96dvT"
+      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_5/src/CMakeFiles/CMakeScratch/TryCompile-Z96dvT"
+      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_5/src/CMakeFiles/CMakeScratch/TryCompile-Z96dvT"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"

@@ -61,8 +61,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_producer_shared_memory/build/CMakeFiles/CMakeScratch/TryCompile-2eQ71d"
-      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_producer_shared_memory/build/CMakeFiles/CMakeScratch/TryCompile-2eQ71d"
+      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_producer_shared_memory/src/CMakeFiles/CMakeScratch/TryCompile-2eQ71d"
+      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_producer_shared_memory/src/CMakeFiles/CMakeScratch/TryCompile-2eQ71d"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -212,8 +212,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_producer_shared_memory/build/CMakeFiles/CMakeScratch/TryCompile-VtdjO5"
-      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_producer_shared_memory/build/CMakeFiles/CMakeScratch/TryCompile-VtdjO5"
+      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_producer_shared_memory/src/CMakeFiles/CMakeScratch/TryCompile-VtdjO5"
+      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_producer_shared_memory/src/CMakeFiles/CMakeScratch/TryCompile-VtdjO5"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"

@@ -61,8 +61,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_consumer_shared_memory/build/CMakeFiles/CMakeScratch/TryCompile-wwRPSy"
-      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_consumer_shared_memory/build/CMakeFiles/CMakeScratch/TryCompile-wwRPSy"
+      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_consumer_shared_memory/src/CMakeFiles/CMakeScratch/TryCompile-wwRPSy"
+      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_consumer_shared_memory/src/CMakeFiles/CMakeScratch/TryCompile-wwRPSy"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -212,8 +212,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_consumer_shared_memory/build/CMakeFiles/CMakeScratch/TryCompile-ylfFg5"
-      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_consumer_shared_memory/build/CMakeFiles/CMakeScratch/TryCompile-ylfFg5"
+      source: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_consumer_shared_memory/src/CMakeFiles/CMakeScratch/TryCompile-ylfFg5"
+      binary: "/Users/grahamstrickland/Documents/university/unisa/bsc98801mcs/2023/cos3721/silberschatz/ch03/3_7/posix_consumer_shared_memory/src/CMakeFiles/CMakeScratch/TryCompile-ylfFg5"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
