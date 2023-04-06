@@ -1,0 +1,1 @@
+add_executable(multithread_pthreads multithread_pthreads.c)

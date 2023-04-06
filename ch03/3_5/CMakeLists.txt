@@ -1,0 +1,1 @@
+add_executable(ipc_shared_memory ipc_shared_memory.c)
