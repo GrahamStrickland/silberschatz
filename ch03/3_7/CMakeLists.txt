@@ -1,4 +1,0 @@
-add_executable(mach_message_passing mach_message_passing.c)
-add_executable(posix_consumer_shared_memory posix_consumer_shared_memory.c)
-add_executable(posix_producer_shared_memory posix_producer_shared_memory.c)
-add_executable(unix_ordinary_pipe unix_ordinary_pipe.c)

@@ -1,1 +1,0 @@
-add_executable(ex3_1 ex3_1.c)

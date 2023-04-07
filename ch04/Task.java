@@ -1,4 +1,4 @@
-package ch04.java_threads.src;
+package ch04;
 
 class Task implements Runnable
 {
