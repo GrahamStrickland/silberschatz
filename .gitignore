@@ -26,9 +26,11 @@
 cmake-build-debug/
 /build
 
-# Object files and debugging files
+# Object/build/debugging files
 *.o
 *.out
+*.obj
+*.exe
 *.dSYM
 .gdb_history
 
