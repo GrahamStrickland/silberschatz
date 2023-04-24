@@ -40,5 +40,8 @@ $HOME
 
 # Apple files
 *.icloud
-
 .fake
+
+# Script files
+*.bat
+*.sh
